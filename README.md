@@ -12,7 +12,7 @@
 ## 🔧 Installation & Setup
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/your-repo/math-gesture.git
+   git clone https://github.com/yash-maske/Math-Gesture.git
    cd math-gesture
    ```
 
