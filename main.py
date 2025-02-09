@@ -18,7 +18,7 @@ with col1:
 with col2:
     output_text_area = st.title("Answer")
     output_text_area = st.subheader("")
-genai.configure(api_key="AIzaSyCc1pbU3Zag-CEqQxoc6Qecw-WEUKZAwa8")
+genai.configure(api_key="")
 model = genai.GenerativeModel('gemini-1.5-flash')
 # Initialize the webcam to capture video
 # The '2' indicates the third camera connected to your computer; '0' would usually refer to the built-in camera
